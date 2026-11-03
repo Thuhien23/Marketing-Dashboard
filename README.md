@@ -53,7 +53,6 @@ Revenue drops significantly in February. Investigate campaign timing, audience b
 **Monitor Conversion Rates:**
 The overall conversion rate has slightly declined (-2%), so it's essential to continuously monitor landing page performance and ad relevance to improve this metric across platforms.
 
-🔗 Check out the dashboard on Maven Analytics: https://mavenanalytics.io/project/20589
 
 🔗 Explore the Power BI app: https://app.powerbi.com/view?r=eyJrIjoiN2RjOGU0MmQtMzRlZC00ZjQ5LTk5ODQtOWExMzNhMThjNTIyIiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9
 
